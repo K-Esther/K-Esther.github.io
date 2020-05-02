@@ -240,6 +240,10 @@ body{
   }
   
 @media (max-width:480px){
+	.carousel-inner img{
+	width: 100%;
+	height: 15em;
+}
 	.mynavbar1link{
 		font-size: small;
 	}
