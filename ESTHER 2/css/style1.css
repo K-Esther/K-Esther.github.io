@@ -112,6 +112,7 @@ body{
 	font-size: 1.5vw;
 	width: 100%;
 	background-color: white;
+	box-shadow: 0.2em 0.2em 0.2em 0.2em rgb(218, 217, 217);
 }
 .today p a{
 	width: 100%;
